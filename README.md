@@ -6,8 +6,8 @@ Getting Started:
 To get started with the code in this repository, follow the steps below:
 
 Clone the repository:
-git clone https://github.com/your-username/sorting-algorithms-research.git
-cd sorting-algorithms-research
+git clone https://github.com/iuliagheju/MPI-paper-code/tree/main.git
+cd MPI-paper-code
 
 Run tests:
 Navigate to the tests/ directory and execute the test scripts to ensure all algorithms are working correctly.
