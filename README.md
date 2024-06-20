@@ -1,2 +1,15 @@
 # MPI-paper-code
-Welcome to the code repository for my research paper on sorting algorithms. This repository contains the implementation of various sorting algorithms analyzed in my study, along with test cases and performance benchmarks. The goal of this repository is to provide a comprehensive resource for understanding, testing, and utilizing different sorting algorithms.
+Welcome to the code repository for my research paper on sorting algorithms. This repository contains the implementation of various sorting algorithms analyzed in my study, along with test cases. The goal of this repository is to provide a comprehensive resource for understanding, testing, and utilizing different sorting algorithms.
+
+Getting Started
+To get started with the code in this repository, follow the steps below:
+
+Clone the repository:
+git clone https://github.com/your-username/sorting-algorithms-research.git
+cd sorting-algorithms-research
+
+Run tests:
+Navigate to the tests/ directory and execute the test scripts to ensure all algorithms are working correctly.
+python -m unittest discover
+
+Run the code from plotgenerator.py in order to see the performance comparison of the algorithms.
